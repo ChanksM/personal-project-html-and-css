@@ -252,8 +252,8 @@ nav ul li img:last-child{
     color: #34495E;
     font-size: 36px;
     margin-left: -2px;
-    letter-spacing: .3px;
-    word-spacing: -1px;
+    /* letter-spacing: .3px;
+    word-spacing: -1px; */
 }
 .sect-1-header h3 span{
     font-weight: 300;
@@ -536,7 +536,7 @@ nav ul li img:last-child{
     line-height: 24px;
     font-weight: bold;
     color: #2C3E50;
-    margin-bottom: 9.9px;
+    margin-bottom: 9px;
 }
 .sect-3-item-2-content p{
     font-size: 14px;
@@ -1241,7 +1241,7 @@ nav ul li img:last-child{
     border: 1px solid #EAEAEA;
     margin-top: 37px;
     letter-spacing: 0.9px;
-    word-spacing: -2px;
+    word-spacing: -2.5px;
     padding-left: 30px;
 }
 .sect-9-search::placeholder{
