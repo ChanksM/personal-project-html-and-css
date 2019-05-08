@@ -76,6 +76,7 @@ nav ul{
 }
 nav ul li{
     margin-right: -34px;
+    /* margin-left: -2px; */
 }
 nav ul li a{
     color: #fff;
@@ -506,7 +507,7 @@ nav ul li img:last-child{
     letter-spacing: .3px;
     line-height: 36px;
     color: #2C3E50;
-    margin-bottom: 30px;
+    margin-bottom: 28px;
 }
 .sect-3-item-1-texts button{
     width: 150px;
@@ -950,7 +951,6 @@ nav ul li img:last-child{
     line-height: 24px;
     color: #fff;
     margin-left: 1px;
-    letter-spacing: -.1px;
     margin-top: -11px;
 }
 .sect-6-texts-buttons{
@@ -1037,7 +1037,8 @@ nav ul li img:last-child{
 .hidden-box-content p{
     width: 459px;
     margin-right: -8px;
-    letter-spacing: -.08px;
+    letter-spacing: .02px;
+    margin-top: -3px;
 }
 .merger:hover .hidden-box{
     display: block;
@@ -1112,14 +1113,13 @@ nav ul li img:last-child{
 .sect-7-box-2-item-5 .sect-7-float-right-p{
     width: 462px;
     float: right;
-    margin-bottom: 12px;
-    margin-top: 3px;
-    letter-spacing: -0.06px;
+    margin-bottom: 13px;
+    margin-top: 2px;
 }
 .sect-7-box-2-item-5 .sect-7-clear-both-p{
     clear: both;
-    letter-spacing: -0.07px;
 }
+
 .sect-7-box-2-item-1:hover,
 .sect-7-box-2-item-2:hover,
 .sect-7-box-2-item-3:hover,
@@ -1222,7 +1222,7 @@ nav ul li img:last-child{
 
 #sect-9-fix-p-width{
     width: 255px;
-    letter-spacing: -.1px;
+    letter-spacing: -0.04px;
 }
 #sect-9-fix-letter-space{
     letter-spacing: .05px;
@@ -1374,4 +1374,7 @@ nav ul li img:last-child{
 
 #h5-margin-fix{
     margin-bottom: 4px;
+}
+#margin-bottom-6px{
+    margin-bottom: 6px;
 }
