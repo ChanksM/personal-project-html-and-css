@@ -44,6 +44,9 @@ nav{
 .for-logo-text{
     height: 74px;
 }
+#nav-ul{
+    margin-bottom: 2px;
+}
 .nav-logo .for-logo-text .logo-text-up{
     font-family: "Lato";
     font-size: 23.8px;
@@ -402,7 +405,7 @@ nav ul li img:last-child{
     font-size: 14px;
     line-height: 24px;
     color: #A1B1BC;
-    word-spacing: -.76px;
+    word-spacing: -0.19px;
     margin-bottom: -4px;
 }
 .sect-2-item-3 button{
@@ -499,7 +502,7 @@ nav ul li img:last-child{
     font-size: 18px;
     margin-top: -7px;
     margin-left: 3px;
-    word-spacing: -1.9px;
+    word-spacing: -0.9px;
     letter-spacing: .3px;
     line-height: 36px;
     color: #2C3E50;
@@ -615,7 +618,8 @@ nav ul li img:last-child{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 19px;
+    padding: 18px;
+    padding-bottom: 19px;
 }
 .sect-4-content-item-poster .sect-4-item-poster-head-1 h4,
 .sect-4-content-item-poster .sect-4-item-poster-head-2 h4{
@@ -623,7 +627,7 @@ nav ul li img:last-child{
     font-size: 15px;
     color: #fff;
     font-weight: 400;
-    line-height: 33px
+    line-height: 10px;
 }
 .sect-4-content-item-poster .sect-4-item-poster-head-2{
     width: 100%;
@@ -1197,7 +1201,7 @@ nav ul li img:last-child{
     font-size: 14px;
     color: #A1B1BC;
     margin-top: -5px;
-    letter-spacing: -.1px;
+    /* letter-spacing: -.1px; */
 }
 .sect-9-content-inside-item i{
     font-size: 10px;
@@ -1218,6 +1222,7 @@ nav ul li img:last-child{
 
 #sect-9-fix-p-width{
     width: 255px;
+    letter-spacing: -.1px;
 }
 #sect-9-fix-letter-space{
     letter-spacing: .05px;
@@ -1256,7 +1261,7 @@ nav ul li img:last-child{
     justify-content: flex-start;
     font-family: "Lato";
     color: #fff;
-    padding: 77px 0 0px 80px;
+    padding: 50px 0 0px 45px;
     height: 100%;
     width: 100%;
 }
@@ -1269,7 +1274,7 @@ nav ul li img:last-child{
 .sect-10-item p{
     font-size: 14px;
     line-height: 24.9px;
-    /* width: 488px; */
+    width: 380px;
     word-spacing: -.5px;
     margin-bottom: 20px;
 }
